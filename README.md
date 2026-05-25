@@ -4,19 +4,19 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there</h1>
 
 ###
 
-<h3 align="left">ℹ️  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm Shokhrukhbek from Uzbekistan.<br><br>- 🔭 I’m working as a Flutter developer<br>- 📚 I'm currently learning Native Development<br>- ⚡ In my free time I watch/play sports</p>
+<p align="left">I'm Shokh from Uzbekistan.<br><br>- I’m working as a software engineer<br>- I'm currently learning low level programming<br>- In my free time... what's that? xD</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 
 ###
 
@@ -42,13 +42,13 @@
 
 ###
 
-<h3 align="left">📊   My Stats</h3>
+<h3 align="left">Leetcode</h3>
 
 ###
 
 <div align="center">
 
   <div>
-    <img src="https://leetcard.jacoblin.cool/ShokhrukhbekYuldoshev?theme=dark&font=Roboto&ext=heatmap" height="250" alt="leetcode stats"  />
+    <img src="https://leetcard.jacoblin.cool/incrediblesy?theme=dark&font=Roboto&ext=heatmap" height="250" alt="leetcode stats"  />
   </div>
 </div>
