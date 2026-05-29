@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Shokh from Uzbekistan.<br><br>- I’m working as a software engineer<br>- I'm currently learning low level programming<br>- In my free time... what's that? xD</p>
+<p align="left">I'm Shokh from Uzbekistan.<br><br>- I’m working as a software engineer<br>- I'm currently learning low level programming</p>
 
 ###
 
